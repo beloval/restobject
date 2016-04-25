@@ -58,10 +58,6 @@ class AltoRouter {
 	 *      array($method, $route, $target, $name)
 	 *   );
 	 *
-	 * @param array $routes
-	 * @return void
-	 * @author Koen Punt
-	 * @throws Exception
 	 */
 	public function addRoutes($routes){
 		if(!is_array($routes) && !$routes instanceof Traversable) {
