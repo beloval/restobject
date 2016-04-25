@@ -23,19 +23,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.php">
+      <file leaf-file-name="MessageManager.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/MessageManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="33" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-25.0" vertical-offset="0" max-vertical-offset="1035">
+            <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessageManager.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/MessageManager.php">
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.05076142" vertical-offset="0" max-vertical-offset="1470">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1710">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AltoRouter.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AltoRouter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4500">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="2" selection-start="138" selection-end="138" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="28" selection-start="478" selection-end="478" vertical-scroll-proportion="3.3265307" vertical-offset="478" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -44,7 +71,25 @@
       <file leaf-file-name="AltoRouter.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/AltoRouter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="7" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="4275">
+            <state line="49" column="7" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-30.625" vertical-offset="0" max-vertical-offset="4275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="24" selection-start="130" selection-end="130" vertical-scroll-proportion="-1.5306122" vertical-offset="0" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="21" selection-start="427" selection-end="541" vertical-scroll-proportion="-3.9795918" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
@@ -53,16 +98,16 @@
       <file leaf-file-name="MessageManager.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MessageManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="6" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1470">
+            <state line="36" column="6" selection-start="781" selection-end="781" vertical-scroll-proportion="15.041667" vertical-offset="901" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="test.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1710">
+            <state line="11" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.28350514" vertical-offset="0" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -260,70 +305,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.php">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="427" selection-end="541" vertical-scroll-proportion="0.33620688" vertical-offset="0" max-vertical-offset="580">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/AltoRouter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="7" selection-start="1020" selection-end="1020" vertical-scroll-proportion="-30.625" vertical-offset="0" max-vertical-offset="4275">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="130" selection-end="130" vertical-scroll-proportion="0.12931034" vertical-offset="0" max-vertical-offset="580">
+        <state line="5" column="24" selection-start="130" selection-end="130" vertical-scroll-proportion="-1.5306122" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/views/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="28" selection-start="478" selection-end="478" vertical-scroll-proportion="-0.19601329" vertical-offset="433" max-vertical-offset="1035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="138" selection-end="138" vertical-scroll-proportion="0.14950167" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AltoRouter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.6366725" vertical-offset="3909" max-vertical-offset="4500">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1710">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/AltoRouter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="7" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="4275">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MessageManager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="6" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1470">
+        <state line="13" column="21" selection-start="427" selection-end="541" vertical-scroll-proportion="-3.9795918" vertical-offset="0" max-vertical-offset="420">
           <folding />
         </state>
       </provider>
@@ -337,7 +340,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/MessageManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.05076142" vertical-offset="0" max-vertical-offset="1470">
+        <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AltoRouter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="138" selection-end="138" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="478" selection-end="478" vertical-scroll-proportion="3.3265307" vertical-offset="478" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="6" selection-start="781" selection-end="781" vertical-scroll-proportion="15.041667" vertical-offset="901" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.28350514" vertical-offset="0" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
